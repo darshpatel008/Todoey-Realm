@@ -27,3 +27,7 @@ Start adding tasks, organizing your to-do list, and managing your day efficientl
 Todoey is a beginner-friendly project that introduces the basics of data persistence using Realm, task management logic, and a clean user interface built with Swift and UIKit.
 
 
+
+https://github.com/user-attachments/assets/b51da1c8-829b-4460-b4cb-0bd3063dd2b2
+
+
